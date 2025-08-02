@@ -1,0 +1,351 @@
+{
+  "ingredient_sets": [
+    {
+      "id": "set_1",
+      "ingredients": "chicken, rice, broccoli"
+    },
+    {
+      "id": "set_2",
+      "ingredients": "pasta, tomatoes, basil, garlic"
+    },
+    {
+      "id": "set_3",
+      "ingredients": "salmon, lemon, dill, potatoes"
+    },
+    {
+      "id": "set_4",
+      "ingredients": "beef, onions, carrots, potatoes, red wine"
+    },
+    {
+      "id": "set_5",
+      "ingredients": "eggs, flour, sugar, vanilla, butter"
+    }
+  ],
+  "variations": {
+    "set_1": [
+      {
+        "title": "Creamy Chicken, Broccoli, and Rice Casserole**",
+        "is_valid": true,
+        "cooking_methods": [
+          "bake",
+          "chop"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 1 1/2 pounds boneless, skinless chicken breast or thighs, cut into 1-inch pieces\n- 2 cups uncooked white or brown rice\n- 3 cups broccoli florets\n- 2 tablespoons olive oil\n- 1 onion, chopped\n- 2 cloves garlic, minced\n- 1 cup chicken broth\n- 1/2 cup heavy cream or half-and-half\n- 1 teaspoon dried thyme\n- Salt and pepper to taste\n- 1 cup shredded cheddar cheese (optional)"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "fry",
+          "stir-fry",
+          "chop"
+        ],
+        "cuisine_styles": [
+          "korean"
+        ],
+        "ingredients": "- 1 pound boneless, skinless chicken breast, cut into small pieces\n- 2 cups cooked rice (preferably day-old rice)\n- 3 cups broccoli florets\n- 2 tablespoons Gochujang (Korean chili paste)\n- 1 tablespoon soy sauce\n- 1 tablespoon sesame oil\n- 1 teaspoon grated ginger\n- 1/4 teaspoon red pepper flakes (optional, for some heat)\n- 2 cloves garlic, minced\n- 1/4 cup chopped green onions for garnish\n- Salt and pepper, to taste"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "marinate",
+          "chop"
+        ],
+        "cuisine_styles": [
+          "korean"
+        ],
+        "ingredients": "- 1 1/2 pounds boneless, skinless chicken breast or thighs, cut into bite-sized pieces\n- 2 cups cooked white or brown rice\n- 3 cups broccoli florets\n- 2 tablespoons gochujang (Korean chili paste)\n- 2 tablespoons soy sauce\n- 2 tablespoons brown sugar\n- 2 tablespoons rice vinegar\n- 1 teaspoon grated ginger\n- 1/4 teaspoon red pepper flakes (optional, for some heat)\n- 2 tablespoons vegetable oil\n- Sesame seeds and chopped green onions for garnish (optional)"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "toast",
+          "chop",
+          "grate"
+        ],
+        "cuisine_styles": [
+          "korean"
+        ],
+        "ingredients": "- 1 pound boneless, skinless chicken breast, cut into small pieces\n- 2 cups cooked rice (preferably day-old rice)\n- 1 cup broccoli florets\n- 1/4 cup gochujang (Korean chili paste)\n- 2 tablespoons soy sauce\n- 2 tablespoons Gochugaru (Korean chili flakes)\n- 2 tablespoons olive oil\n- 1 small onion, finely chopped\n- 2 cloves garlic, minced\n- 1 tablespoon grated ginger\n- 1 egg, lightly beaten\n- 1/2 cup panko breadcrumbs\n- Salt and pepper to taste"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "fry",
+          "toast",
+          "marinate"
+        ],
+        "cuisine_styles": [
+          "korean"
+        ],
+        "ingredients": "- 1 pound boneless, skinless chicken breast, cut into small pieces\n- 2 cups cooked rice (preferably day-old rice)\n- 1 cup broccoli florets\n- 1/4 cup gochujang (Korean chili paste)\n- 2 tablespoons soy sauce\n- 2 tablespoons rice vinegar\n- 1 tablespoon Gochugaru (Korean red pepper flakes)\n- 1 teaspoon sesame oil\n- 1/4 cup chopped green onions for garnish\n- 1/4 cup toasted sesame seeds for garnish\n- 1 egg, lightly beaten (for egg wash)\n- Vegetable oil for frying"
+      }
+    ],
+    "set_2": [
+      {
+        "title": "Summer Pasta Delight**",
+        "is_valid": true,
+        "cooking_methods": [
+          "boil",
+          "simmer",
+          "chop",
+          "dice",
+          "mince"
+        ],
+        "cuisine_styles": [
+          "italian"
+        ],
+        "ingredients": "- 8 oz pasta of your choice (linguine or fettuccine work well)\n- 2 large tomatoes, diced\n- 1/4 cup fresh basil leaves, chopped\n- 3 cloves garlic, minced\n- 2 tablespoons extra virgin olive oil\n- Salt, to taste\n- 1/4 teaspoon black pepper, to taste\n- 1/4 cup grated Parmesan cheese (optional)"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "bake",
+          "chop",
+          "mince"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 8 oz pasta of your choice (e.g., penne, fusilli, or farfalle)\n- 2 cups cherry tomatoes, halved\n- 1/4 cup fresh basil leaves, chopped\n- 3 cloves garlic, minced\n- 1/4 cup olive oil\n- 1/2 cup grated mozzarella cheese\n- Salt and pepper to taste\n- 1/4 teaspoon red pepper flakes (optional, for some heat)"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "simmer",
+          "toast",
+          "blend",
+          "chop",
+          "dice",
+          "mince",
+          "grate"
+        ],
+        "cuisine_styles": [
+          "korean"
+        ],
+        "ingredients": "- 8 oz pasta of choice (e.g., spaghetti or soba noodles)\n- 2 large tomatoes, diced\n- 1/4 cup fresh basil leaves, chopped\n- 3 cloves garlic, minced\n- 2 tbsp Gochujang (Korean chili paste)\n- 1 tbsp soy sauce\n- 1 tbsp olive oil\n- 1 tsp grated ginger\n- 1/4 tsp red pepper flakes (optional, for some heat)\n- Salt and pepper to taste\n- 1/4 cup toasted sesame seeds for garnish\n- 1/4 cup crushed kimchi (optional, for added flavor)"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "chop",
+          "dice",
+          "mince",
+          "grate"
+        ],
+        "cuisine_styles": [
+          "asian"
+        ],
+        "ingredients": "- 8 oz pasta of your choice (linguine or soba work well)\n- 2 large tomatoes, diced\n- 1/4 cup fresh basil leaves, chopped\n- 3 cloves garlic, minced\n- 2 tablespoons soy sauce\n- 1 tablespoon sesame oil\n- 1 tablespoon honey\n- 1 teaspoon grated ginger\n- 1/4 teaspoon red pepper flakes (optional, for some heat)\n- Salt and pepper to taste\n- 1/4 cup chopped green onions for garnish"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "bake",
+          "simmer",
+          "toast",
+          "blend",
+          "chop",
+          "dice",
+          "mince",
+          "grate"
+        ],
+        "cuisine_styles": [
+          "italian",
+          "korean",
+          "fusion"
+        ],
+        "ingredients": "- 8 oz pasta of your choice (e.g., spaghetti or soba noodles)\n- 2 large tomatoes, diced\n- 1/4 cup fresh basil leaves, chopped\n- 3 cloves garlic, minced\n- 2 tablespoons Gochujang (Korean chili paste)\n- 1 tablespoon soy sauce\n- 1 tablespoon sesame oil\n- 1 teaspoon grated ginger\n- 1/4 teaspoon red pepper flakes (optional, for some heat)\n- Salt and pepper, to taste\n- 1/4 cup toasted sesame seeds and chopped green onions, for garnish"
+      }
+    ],
+    "set_3": [
+      {
+        "title": "Pan-Seared Salmon with Lemon-Dill Potatoes**",
+        "is_valid": true,
+        "cooking_methods": [
+          "roast",
+          "sear",
+          "chop"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 4 salmon fillets (6 ounces each)\n- 2 large potatoes, peeled and cut into 1-inch wedges\n- 2 lemons, juiced\n- 1/4 cup fresh dill, chopped\n- 2 tablespoons olive oil\n- Salt and pepper, to taste"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "roast",
+          "sear",
+          "chop"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 4 salmon fillets (6 ounces each)\n- 2 large potatoes, peeled and cut into 1-inch wedges\n- 1/4 cup unsalted butter, softened\n- 2 tablespoons freshly chopped dill\n- 2 lemons, zested and juiced\n- 2 tablespoons olive oil\n- Salt and pepper to taste\n- 1 cup microgreens (such as pea shoots or purslane)\n- Fresh dill sprigs for garnish"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "boil",
+          "sear",
+          "chop"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 4 salmon fillets (6 oz each)\n- 2 large potatoes, peeled and chopped into 1-inch cubes\n- 1/4 cup all-purpose flour\n- 1/4 cup semolina flour\n- 1/4 cup grated Parmesan cheese\n- 1/2 cup dill, chopped\n- 2 lemons, zested and juiced\n- 4 tbsp unsalted butter\n- Salt and pepper to taste"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "roast",
+          "boil",
+          "simmer",
+          "sear",
+          "reduce",
+          "chop"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 4 salmon fillets (6 oz each)\n- 2 large potatoes, peeled and cubed\n- 2 lemons, juiced\n- 1/4 cup fresh dill, chopped\n- 1 cup quinoa, rinsed and drained\n- 2 cups water\n- 2 tbsp olive oil\n- Salt and pepper, to taste\n- 1 tsp garlic powder"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "chop",
+          "grate"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 4 salmon fillets (6 oz each)\n- 2 large potatoes, peeled and grated\n- 1/4 cup finely chopped fresh dill\n- 2 lemons, zested and juiced\n- 1/4 cup all-purpose flour\n- 1/2 teaspoon salt\n- 1/4 teaspoon black pepper\n- 2 tablespoons olive oil\n- 2 tablespoons butter\n- Micro greens (such as pea shoots or purslane) for garnish"
+      }
+    ],
+    "set_4": [
+      {
+        "title": "Braised Beef with Root Vegetables in Red Wine**",
+        "is_valid": true,
+        "cooking_methods": [
+          "braise",
+          "caramelize",
+          "chop",
+          "slice"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 1 1/2 lb. beef round tip steak, cut into 1 1/2-inch chunks\n- 2 medium onions, sliced\n- 4 medium carrots, peeled and sliced\n- 2 large potatoes, peeled and cubed\n- 1 cup dry red wine\n- 2 tbsp. olive oil\n- Salt and pepper to taste\n- Fresh parsley, chopped (optional)"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "bake",
+          "simmer",
+          "steam",
+          "sear",
+          "caramelize",
+          "reduce",
+          "slice",
+          "grate"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 1 lb. beef, cut into 1 1/2-inch cubes\n- 2 large onions, thinly sliced\n- 4 large carrots, peeled and grated\n- 2 large potatoes, thinly sliced\n- 1 cup red wine\n- 2 tbsp olive oil\n- 1 tsp dried thyme\n- Salt and pepper to taste\n- 1 sheet of frozen puff pastry, thawed\n- 1 egg, beaten (for egg wash)"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "boil",
+          "braise",
+          "smoke",
+          "caramelize",
+          "chop",
+          "slice"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 1.5 lbs beef short ribs or chuck, cut into 2-inch pieces\n- 2 large onions, thinly sliced\n- 4 large carrots, peeled and cut into 1-inch pieces\n- 2 large potatoes, peeled and cut into 1-inch pieces\n- 1 cup red wine\n- 2 tablespoons olive oil\n- 1 teaspoon ground cumin\n- 1 teaspoon smoked paprika\n- 1/2 teaspoon ground cinnamon\n- 1/2 teaspoon ground ginger\n- Salt and pepper, to taste\n- Fresh parsley, chopped (optional)"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "bake",
+          "smoke",
+          "reduce",
+          "dice",
+          "grate"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 1 lb. beef, cut into small pieces\n- 2 medium onions, diced\n- 4 medium carrots, peeled and grated\n- 2 medium potatoes, peeled and diced\n- 1 cup red wine\n- 2 tablespoons olive oil\n- 2 cloves garlic, minced\n- 1 teaspoon cumin\n- 1 teaspoon smoked paprika\n- 1/2 teaspoon salt\n- 1/4 teaspoon black pepper\n- 2 cups empanada dough (homemade or store-bought)\n- 1 egg, beaten (for egg wash)"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "bake",
+          "boil",
+          "smoke",
+          "reduce",
+          "dice",
+          "grate"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 1 lb. beef, cut into small cubes\n- 2 medium onions, diced\n- 4 medium carrots, peeled and grated\n- 2 large potatoes, peeled and diced\n- 1 cup red wine\n- 2 tablespoons olive oil\n- 2 teaspoons smoked paprika\n- 1 teaspoon ground cumin\n- 1/2 teaspoon salt\n- 1/4 teaspoon black pepper\n- 2 cups empanada dough (homemade or store-bought)\n- 1 egg, beaten (for egg wash)"
+      }
+    ],
+    "set_5": [
+      {
+        "title": "Vanilla Cake**",
+        "is_valid": true,
+        "cooking_methods": [
+          "bake"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 2 eggs\n- 1 1/2 c. flour\n- 1 c. sugar\n- 1/2 tsp. vanilla\n- 1/2 c. melted butter"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "caramelize"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 2 eggs\n- 1 1/2 c. flour\n- 1/2 c. sugar\n- 1/2 tsp. vanilla\n- 2 tbsp. butter, melted"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "caramelize"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 2 eggs\n- 1 1/2 cups flour\n- 1/2 cup sugar\n- 1/2 teaspoon vanilla\n- 2 tablespoons butter, melted"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "caramelize"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 2 eggs\n- 1 1/2 cups flour\n- 1/2 cup sugar\n- 1/2 teaspoon vanilla\n- 2 tablespoons butter, melted"
+      },
+      {
+        "title": "",
+        "is_valid": true,
+        "cooking_methods": [
+          "caramelize"
+        ],
+        "cuisine_styles": [],
+        "ingredients": "- 2 eggs\n- 1 1/2 c. flour\n- 1/2 c. sugar\n- 1/2 tsp. vanilla\n- 2 tbsp. butter, melted"
+      }
+    ]
+  },
+  "metrics": {
+    "title_uniqueness": 0.0,
+    "cooking_method_variation": 100.0,
+    "cuisine_style_variation": 40.0,
+    "ingredient_addition_variation": 100.0
+  }
+}

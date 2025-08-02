@@ -1,0 +1,5 @@
+gina api.txt
+recipe_embeddings.npy
+recipe_ids.npy
+__pycache__/
+.env
