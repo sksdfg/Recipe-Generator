@@ -8,7 +8,7 @@ import re
 import time
 import hashlib
 
-client = Groq(api_key="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")
+client = Groq(api_key="GROQ_API_KEY")
 
 df = pd.read_csv("C:/Users/sanja/Desktop/GENAI/filtered_recipenlg_50k.csv")
 embeddings = np.load("C:/Users/sanja/Desktop/GENAI/recipe_embeddings.npy", allow_pickle=True)
@@ -24,7 +24,7 @@ index = faiss.IndexFlatL2(dimension)
 index.add(embeddings)
 
 
-JINA_API_URL = "https://api.jina.ai/v1/embeddings"
+JINA_API_URL = "JINA_API_KEY"
 HEADERS = {
     "Content-Type": "application/json",
     "Authorization": "Bearer jina_ca33f621ce834d449167883e66e98172Ux7fhR58FXoSD3u-usCd8eUcdZKS"
