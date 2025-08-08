@@ -58,7 +58,7 @@ if 'video_path' not in st.session_state:
 # Initialize API clients
 @st.cache_resource
 def load_api_clients():
-    groq_client = Groq(api_key="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")
+    groq_client = Groq(api_key="GROQ_API_KEY")
     sd_client = Client("stabilityai/stable-diffusion-3-medium")
     return groq_client, sd_client
 
